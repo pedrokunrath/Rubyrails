@@ -1,24 +1,8 @@
-# README
+# Modelo de Projeto Ruby on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Este é um repositório que fiz em **Ruby on Rails** com **Ruby**, com o objetivo de servir como um exemplo simples e funcional. Ele contém um modelo já pronto.
 
-Things you may want to cover:
+## O que este projeto faz?
+Este projeto não tem funcionalidades complexas, sendo apenas uma base para quem está começando. 
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
